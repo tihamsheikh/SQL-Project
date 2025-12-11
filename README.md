@@ -1,7 +1,4 @@
-Here is a clean, professional, and well-structured **README.md** for your SQL project.
-Just paste it into your repo.
 
----
 
 # COVID-19 Data Analysis (SQL Project)
 
