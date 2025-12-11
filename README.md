@@ -177,7 +177,7 @@ It can be used for:
 
 ---
 
-## 📄 License
+## License
 
 Free to use and modify.
 
